@@ -106,3 +106,37 @@ Understanding the color, typography, and spacing in Figma ensures:
 | *Scrum Master*      | Facilitates agile processes, removes blockers, organizes meetings           |
 
 ---
+
+## UI Component Patterns.
+
+The application will be built using *modular, reusable components* for consistent design and development.
+
+### Planned Components
+
+#### Navbar
+
+- Logo
+- Search bar
+- User navigation 
+- Responsive menu
+
+#### 🏘 Property Card
+
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+#### 📜 Footer
+
+- Site links
+- Company information
+- Social media links
+- Copyright information
+---
+
+
+
+
+
+
