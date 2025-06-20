@@ -120,14 +120,14 @@ The application will be built using *modular, reusable components* for consisten
 - User navigation 
 - Responsive menu
 
-#### 🏘 Property Card
+#### Property Card
 
 - Property image
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
 
-#### 📜 Footer
+####  Footer
 
 - Site links
 - Company information
