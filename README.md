@@ -92,7 +92,7 @@ Understanding the color, typography, and spacing in Figma ensures:
 - Better visual hierarchy and user experience
 
 ---
-## Project Roles and Responsibilities
+## Project Roles and Responsibilities.
 
 | Role               | Responsibilities                                                                 |
 |--------------------|----------------------------------------------------------------------------------|
