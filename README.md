@@ -5,7 +5,7 @@
 
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Build a real-world booking web application using modern tools
 - Learn and apply responsive UI/UX design principles
@@ -15,7 +15,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ---
 
-## ⚙ Tech Stack
+##  Tech Stack
 
 | Category        | Tools Used                                |
 |----------------|--------------------------------------------|
